@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VideoMeet - WebRTC Video Calling Application
 
 A full-featured video calling web application built with the MERN stack (MongoDB, Express, React, Node.js) and WebRTC for real-time communication.
@@ -93,3 +94,7 @@ npm run build
 ## License
 
 MIT
+=======
+# VideoMeet-Web
+This is a Video call website
+>>>>>>> b288ab5dfa4a6cbca3af4a4ada59a2579c297e5a
